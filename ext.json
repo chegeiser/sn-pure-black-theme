@@ -3,14 +3,14 @@ metatype: json
 ---
 
 {
-  "identifier": "io.github.christianhans.sn-pure-black-theme",
-  "name": "Pure Black",
+  "identifier": "io.github.chegeiser.sn-pure-black-theme",
+  "name": "Pure Black - CPG",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.9",
+  "version": "1.1.1",
   "description": "Pure black theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.9/dist/dist.css",
-  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.9.zip",
-  "latest_url": "https://listed.to/G4qnpftLNJ",
-  "marketing_url": "https://github.com/christianhans/sn-pure-black-theme"
+  "url": "https://raw.githubusercontent.com/chegeiser/sn-pure-black-theme/master/dist/dist.css",
+  "download_url": "https://github.com/chegeiser/sn-pure-black-theme/archive/1.1.1.zip",
+  "latest_url": "https://listed.to/p/OQn2d2UviJ",
+  "marketing_url": "https://github.com/chegeiser/sn-pure-black-theme"
 }
