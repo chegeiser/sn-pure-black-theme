@@ -1,7 +1,3 @@
----
-metatype: json
----
-
 {
   "identifier": "io.github.chegeiser.sn-pure-black-theme",
   "name": "Pure Black - CPG",
@@ -9,7 +5,7 @@ metatype: json
   "area": "themes",
   "version": "1.1.2",
   "description": "Pure black theme for Standard Notes.",
-  "url": "https://raw.githubusercontent.com/chegeiser/sn-pure-black-theme/master/dist/dist.css",
+  "url": "https://cdn.jsdelivr.net/gh/chegeiser/sn-pure-black-theme/dist/dist.css",
   "download_url": "https://github.com/chegeiser/sn-pure-black-theme/archive/1.1.2.zip",
   "latest_url": "https://listed.to/p/OQn2d2UviJ",
   "marketing_url": "https://github.com/chegeiser/sn-pure-black-theme"
